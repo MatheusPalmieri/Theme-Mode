@@ -20,7 +20,7 @@
 <h2 align="center">Site</h2>
 
 <p align="center">
- <a href="https://matheuspalmieri.github.io/Theme/">Site Do Projeto</a>
+ <a href="https://matheuspalmieri.github.io/Theme-Mode/">Site Do Projeto</a>
 </p>
 
 <img src="animation.gif" width="1366px" align="center">
@@ -35,7 +35,7 @@
 
 ### Rodando A Aplicação
 
-<a href="https://matheuspalmieri.github.io/Theme/">Site Do Projeto</a>
+<a href="https://matheuspalmieri.github.io/Theme-Mode/">Site Do Projeto</a>
 
 ---
 
