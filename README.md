@@ -23,7 +23,7 @@
  <a href="https://thememode-matheuspalmieri.netlify.app//">Site Do Projeto</a>
 </p>
 
-<!-- <img src="image/imagem.png" width="1366px" align="center"> -->
+<!-- <img src="animation.gif" width="1366px" align="center"> -->
 
 <!-- Atualizações -->
 
